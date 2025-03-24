@@ -1,2 +1,6 @@
 # cv-group-assignment-1
-Group assignment 1 for Computer Vision at KU Leuven
+
+## About
+This is a shared repo for collaboration on the Computer Vision group assignment 1.
+
+The final version will be a submission in Kaggle.
