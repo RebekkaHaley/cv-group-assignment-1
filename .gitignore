@@ -1,5 +1,3 @@
-data/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -177,3 +175,8 @@ cython_debug/
 
 # macOS
 .DS_Store
+
+# too large files
+prepped_data/
+data/
+
