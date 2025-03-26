@@ -175,3 +175,8 @@ cython_debug/
 
 # macOS
 .DS_Store
+
+# too large files
+prepped_data/
+data/
+
