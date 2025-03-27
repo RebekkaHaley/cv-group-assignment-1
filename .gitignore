@@ -178,3 +178,5 @@ cython_debug/
 
 # too large files
 prepped_data/
+data/
+input/
